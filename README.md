@@ -1,8 +1,4 @@
-# Insurance-Prediction-GUI-by-Fastiapi-with-Html
 
-Here is the modified **README.md** for **Insurance Prediction** instead of **Crime Prediction**:
-
----
 
 # Insurance-Prediction-GUI-by-FastAPI-with-HTML
 
