@@ -1,13 +1,17 @@
 # Insurance-Prediction-GUI-by-Fastiapi-with-Html
 
-# Crime Prediction by AI
+Here is the modified **README.md** for **Insurance Prediction** instead of **Crime Prediction**:
+
+---
+
+# Insurance-Prediction-GUI-by-FastAPI-with-HTML
 
 ## Overview
-This project implements a **crime prediction system** using machine learning models. It is built with **FastAPI** for the backend, **SQLAlchemy** for database management, and includes authentication features. The system supports multiple machine learning models for crime prediction, including **Decision Tree, Random Forest, and SVM**.
+This project implements an **insurance prediction system** using machine learning models. It is built with **FastAPI** for the backend, **SQLAlchemy** for database management, and includes authentication features. The system supports multiple machine learning models for **insurance claim prediction**, including **Decision Tree, Random Forest, and SVM**.
 
 ## Features
 - **User Authentication:** Register and login system using FastAPI.
-- **Machine Learning Models:** Predict crime occurrences using trained models.
+- **Machine Learning Models:** Predict **insurance claims** using trained models.
 - **Database Integration:** SQLAlchemy for user management.
 - **Preprocessing:** Pre-trained preprocessing pipeline for handling input data.
 - **Web UI:** HTML templates for login, registration, and home pages.
@@ -56,8 +60,8 @@ fastapi-auth/
 ### Setup
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/fastapi-auth.git
-   cd fastapi-auth
+   git clone https://github.com/your-username/insurance-prediction.git
+   cd insurance-prediction
    ```
 
 2. **Install dependencies**:
@@ -76,28 +80,29 @@ fastapi-auth/
 ---
 ## Usage
 1. **Register/Login** using the authentication system.
-2. **Navigate to Home** and provide input for crime prediction.
+2. **Navigate to Home** and provide input for insurance prediction.
 3. **Choose a Model** (Decision Tree, Random Forest, or SVM).
 4. **Submit the form** and view predictions.
 
 ---
 ## API Endpoints
-| Endpoint         | Method | Description              |
-|-----------------|--------|--------------------------|
-| `/register`     | POST   | User registration        |
-| `/login`        | POST   | User login               |
-| `/home`         | GET    | Home page                |
-| `/predict`      | POST   | Predict crime occurrence |
+| Endpoint         | Method | Description                      |
+|-----------------|--------|----------------------------------|
+| `/register`     | POST   | User registration               |
+| `/login`        | POST   | User login                      |
+| `/home`         | GET    | Home page                        |
+| `/predict`      | POST   | Predict **insurance claim**     |
 
 ---
 ## Contributing
 Pull requests are welcome! Please open an issue first to discuss proposed changes.
 
----
-## License
-This project is open-source and available under the [MIT License](LICENSE).
+
 
 ---
 ## Contact
-For questions or support, contact [your-email@example.com].
+For questions or support, contact [jta.palanivel@gmail.com].
 
+---
+
+This README is now modified for **insurance claim prediction**. Let me know if you need further refinements! 🚀
